@@ -275,3 +275,49 @@
 (^|\.)worldfcdn\.com$
 (^|\.)wshareit\.com$
 (^|\.)wwstat\.com$
+
+# --- Netflix ---
+(^|\.)netflix\.com$
+(^|\.)netflix\.net$
+(^|\.)nflximg\.net$
+(^|\.)nflxvideo\.net$
+(^|\.)nflxext\.com$
+(^|\.)nflxso\.net$
+
+# --- YouTube ---
+(^|\.)youtube\.com$
+(^|\.)youtu\.be$
+(^|\.)ytimg\.com$
+(^|\.)youtube-nocookie\.com$
+(^|\.)ytimg\.l\.google\.com$
+(^|\.)youtubei\.googleapis\.com$
+
+# --- Amazon Prime Video ---
+(^|\.)primevideo\.com$
+(^|\.)aiv-cdn\.net$
+(^|\.)amazonvideo\.com$
+
+# --- Disney+ ---
+(^|\.)disneyplus\.com$
+(^|\.)dssott\.com$
+(^|\.)bamgrid\.com$
+
+# --- HBO / Max ---
+(^|\.)max\.com$
+(^|\.)hbomax\.com$
+(^|\.)hbomaxcdn\.com$
+
+# --- Hulu ---
+(^|\.)hulu\.com$
+(^|\.)huluim\.com$
+
+# --- Apple TV+ ---
+(^|\.)tv\.apple\.com$
+
+# --- Free/Live TVs (Pluto, Tubi, etc.) ---
+(^|\.)pluto\.tv$
+(^|\.)tubitv\.com$
+
+# --- Crunchyroll (Anime) ---
+(^|\.)crunchyroll\.com$
+(^|\.)vrv\.co$
