@@ -1,8 +1,7 @@
-(^|\.)delivery\.mp\.microsoft\.com$
-(^|\.)googleapis\.com$
-(^|\.)gvt1\.com$
-(^|\.)gvt2\.com$
-(^|\.)ospserver\.net$
-(^|\.)samsungdm\.com$
-(^|\.)update\.microsoft\.com$
 (^|\.)windowsupdate\.com$
+(^|\.)update\.microsoft\.com$
+(^|\.)windowsupdate\.microsoft\.com$
+(^|\.)download\.windowsupdate\.com$
+(^|\.)au\.download\.windowsupdate\.com$
+(^|\.)sls\.update\.microsoft\.com$
+(^|\.)do\.dsp\.mp\.microsoft\.com$
