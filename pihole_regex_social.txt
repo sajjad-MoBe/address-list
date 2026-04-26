@@ -1,323 +1,323 @@
-(^|\.)3lift\.com$
-(^|\.)acast\.com$
-(^|\.)accountkit\.com$
-(^|\.)activision\.com$
-(^|\.)adblockfast\.com$
-(^|\.)addtoany\.com$
-(^|\.)adjust\.com$
-(^|\.)admidainsight\.com$
-(^|\.)ads-twitter\.com$
-(^|\.)adtilt\.com$
-(^|\.)ainvest\.com$
-(^|\.)akahost\.net$
-(^|\.)akamaihd\.net$
-(^|\.)akamaized\.net$
-(^|\.)allow-reuest\.co\.uk$
-(^|\.)amazontrust\.com$
-(^|\.)app-analytics-services-att\.com$
-(^|\.)app-measurement\.com$
-(^|\.)apple-cloudkit\.com$
-(^|\.)apple-mapkit\.com$
-(^|\.)appspot\.com$
-(^|\.)atomile\.com$
-(^|\.)attentioninsight\.com$
-(^|\.)avast\.com$
-(^|\.)betcart\.com$
-(^|\.)buy-request\.co\.uk$
-(^|\.)bytedance\.com$
-(^|\.)bytefcdn-oversea\.com$
-(^|\.)bytefcdn-ttpeu\.com$
-(^|\.)byteglb\.com$
-(^|\.)byteigtm\.com$
-(^|\.)byteimg\.com$
-(^|\.)byteoversea\.com$
-(^|\.)byteoversea\.net$
-(^|\.)bytetcdn\.com$
-(^|\.)capcut\.com$
-(^|\.)cashwort\.com$
-(^|\.)cdn-net\.com$
-(^|\.)cdninstagram\.com$
-(^|\.)chartboost\.com$
-(^|\.)chatgpt\.com$
-(^|\.)chatwoot\.com$
-(^|\.)clearbit\.com$
-(^|\.)clevertoolkit\.com$
-(^|\.)cloudflare\.net$
-(^|\.)cloudflareclient\.com$
-(^|\.)cloudfront\.net$
-(^|\.)codmwest\.com$
-(^|\.)colorado\.edu$
-(^|\.)comcast\.com$
-(^|\.)consumerhealthdigest\.com$
-(^|\.)contentsquare\.net$
-(^|\.)cookie-script\.com$
-(^|\.)copilot\.com$
-(^|\.)cpa-content\.com$
-(^|\.)crummydevioussucculent\.com$
-(^|\.)dataseat\.com$
-(^|\.)diamondberlingamerplanet\.com$
-(^|\.)digicert\.com$
-(^|\.)discord\.com$
-(^|\.)discord\.gg$
-(^|\.)discord\.media$
-(^|\.)discordapp\.com$
-(^|\.)discordapp\.net$
-(^|\.)dmpplat\.com$
-(^|\.)dnse1\.com$
-(^|\.)download-fast\.co\.uk$
-(^|\.)drest\.com$
-(^|\.)edgekey\.net$
-(^|\.)edgesuite\.net$
-(^|\.)enable-request\.co\.uk$
-(^|\.)energized\.pro$
-(^|\.)es-eset\.com$
-(^|\.)eset\.com$
-(^|\.)facebook\.com$
-(^|\.)facebook\.de$
-(^|\.)facebook\.fr$
-(^|\.)facebook\.net$
-(^|\.)fast\.com$
-(^|\.)fastly\.net$
-(^|\.)fb\.com$
-(^|\.)fb\.me$
-(^|\.)fbcdn\.com$
-(^|\.)fbcdn\.net$
-(^|\.)fbpigeon\.com$
-(^|\.)fbsbx\.com$
-(^|\.)fburl\.com$
-(^|\.)fh-wgt\.com$
-(^|\.)fiverequest\.com$
-(^|\.)flavouredjuicycontent\.com$
-(^|\.)flirtygirlschat\.com$
-(^|\.)flowgpt\.com$
-(^|\.)footerfont\.com$
-(^|\.)foursquare\.com$
-(^|\.)freebasics\.com$
-(^|\.)freshchat\.com$
-(^|\.)ft\.com$
-(^|\.)gcloudplat\.com$
-(^|\.)gdfsnt\.com$
-(^|\.)geetest\.com$
-(^|\.)geevisit\.com$
-(^|\.)gethornet\.com$
-(^|\.)ggpht\.com$
-(^|\.)giphy\.com$
-(^|\.)githubcopilot\.com$
-(^|\.)githubusercontent\.com$
-(^|\.)golden-gates\.sbs$
-(^|\.)goodimpressioncrboost\.com$
-(^|\.)googlevideo\.com$
-(^|\.)gsensebot\.com$
-(^|\.)helpshift\.com$
-(^|\.)hootsuite\.com$
-(^|\.)hornet\.com$
-(^|\.)hornmot\.com$
-(^|\.)hpeprint\.com$
-(^|\.)hubspot\.com$
-(^|\.)hyperagent\.com$
-(^|\.)hypstarcdn\.com$
-(^|\.)ibytedtos\.com$
-(^|\.)ibyteimg\.com$
-(^|\.)icloud-content\.com$
-(^|\.)imagetwist\.com$
-(^|\.)info-matureplanet\.com$
-(^|\.)instabug\.com$
-(^|\.)instagram\.com$
-(^|\.)internet\.org$
-(^|\.)iobit\.com$
-(^|\.)ipstatp\.com$
-(^|\.)ironport\.com$
-(^|\.)isnssdk\.com$
-(^|\.)japangoodsdirect\.com$
-(^|\.)jsmsat\.com$
-(^|\.)kuaishouzt\.com$
-(^|\.)kwaizt\.com$
-(^|\.)lgtviot\.com$
-(^|\.)lifeaiot\.com$
-(^|\.)lijit\.com$
-(^|\.)linkedin-ei\.com$
-(^|\.)linkedin\.com$
-(^|\.)ln-msedge\.net$
-(^|\.)loseit\.com$
-(^|\.)m\.me$
-(^|\.)manychat\.com$
-(^|\.)maykel-borg\.info$
-(^|\.)mcusercontent\.com$
-(^|\.)medinfinit\.com$
-(^|\.)messenger\.com$
-(^|\.)mfbcdn\.net$
-(^|\.)microsoftpersonalcontent\.com$
-(^|\.)miniclippt\.com$
-(^|\.)msftconnecttest\.com$
-(^|\.)muscdn\.com$
-(^|\.)musemuse\.cn$
-(^|\.)musical\.ly$
-(^|\.)musically\.ly$
-(^|\.)myadsget\.com$
-(^|\.)neworderflowbot\.com$
-(^|\.)newsinfo\.cfd$
-(^|\.)northghost\.com$
-(^|\.)oaiusercontent\.com$
-(^|\.)oakdenet\.com$
-(^|\.)office\.net$
-(^|\.)onetrust\.com$
-(^|\.)online-metrix\.net$
-(^|\.)openspeedtest\.com$
-(^|\.)picsart\.com$
-(^|\.)pinterest\.com$
-(^|\.)pinterest\.net$
-(^|\.)privacy-mgmt\.com$
-(^|\.)privatehost\.com$
-(^|\.)pstatp\.com$
-(^|\.)ptwmstcnt\.com$
-(^|\.)pubmnet\.com$
-(^|\.)qlivecdn\.com$
-(^|\.)quantcount\.com$
-(^|\.)raycast\.com$
-(^|\.)reactsummit\.com$
-(^|\.)reddit\.com$
-(^|\.)redditmedia\.com$
-(^|\.)redditspace\.com$
-(^|\.)redditstatic\.com$
-(^|\.)restaurantware\.sbs$
-(^|\.)revenuecat\.com$
-(^|\.)reviveroott\.com$
-(^|\.)rncdn7\.com$
-(^|\.)rocket-cdn\.com$
-(^|\.)rubiconproject\.com$
-(^|\.)samsung-dict\.com$
-(^|\.)samsungconsent\.com$
-(^|\.)seebestfirst\.com$
-(^|\.)segment\.com$
-(^|\.)sgsnssdk\.com$
-(^|\.)sharepoint\.com$
-(^|\.)sitemcinet\.co\.uk$
-(^|\.)sitescout\.com$
-(^|\.)skype\.com$
-(^|\.)snapchat\.com$
-(^|\.)snapkit\.com$
-(^|\.)spellknight\.com$
-(^|\.)sssinstagram\.com$
-(^|\.)stackadapt\.com$
-(^|\.)statsigapi\.net$
-(^|\.)stripst\.com$
-(^|\.)strpst\.com$
-(^|\.)strstat\.com$
-(^|\.)swypeconnect\.com$
-(^|\.)t\.co$
-(^|\.)tbunet\.com$
-(^|\.)telegram\.me$
-(^|\.)telegram\.org$
-(^|\.)t\.me$
-(^|\.)termiusclient\.co\.uk$
-(^|\.)tfbnw\.net$
-(^|\.)thefacebook\.com$
-(^|\.)thisilient\.com$
-(^|\.)tiktok-row\.net$
-(^|\.)tiktok\.com$
-(^|\.)tiktok\.in$
-(^|\.)tiktok\.org$
-(^|\.)tiktokcdn-eu\.com$
-(^|\.)tiktokcdn-eu\.net$
-(^|\.)tiktokcdn-in\.com$
-(^|\.)tiktokcdn-us\.com$
-(^|\.)tiktokcdn\.com$
-(^|\.)tiktokd\.org$
-(^|\.)tiktokeu-cdn\.com$
-(^|\.)tiktokglobalshop\.com$
-(^|\.)tiktokglobalshopv\.com$
-(^|\.)tiktoklb\.eu$
-(^|\.)tiktokmusic\.app$
-(^|\.)tiktokpangle-b\.us$
-(^|\.)tiktokpangle-cdn-us\.com$
-(^|\.)tiktokpangle\.us$
-(^|\.)tiktokshop\.com$
-(^|\.)tiktokstaticb\.com$
-(^|\.)tiktokv\.com$
-(^|\.)tiktokv\.eu$
-(^|\.)tiktokv\.us$
-(^|\.)tiktokw\.eu$
-(^|\.)tiktokw\.us$
-(^|\.)times-strait\.co\.in$
-(^|\.)tld-section0000\.homes$
-(^|\.)tlivecdn\.com$
-(^|\.)tlivepush\.com$
-(^|\.)toobit\.com$
-(^|\.)tracebit\.com$
-(^|\.)trustwallet\.com$
-(^|\.)ttapis\.com$
-(^|\.)ttdns2\.com$
-(^|\.)ttdns3\.com$
-(^|\.)ttlivecdn\.com$
-(^|\.)ttoversea\.net$
-(^|\.)ttoverseaus\.net$
-(^|\.)tttturbonet\.com$
-(^|\.)ttwstatic\.com$
-(^|\.)twimg\.com$
-(^|\.)twitch\.tv$
-(^|\.)twitter\.com$
-(^|\.)unbrownunflat\.com$
-(^|\.)uniconsent\.com$
-(^|\.)unicorn-soft\.com$
-(^|\.)unity3dusercontent\.com$
-(^|\.)usertrust\.com$
-(^|\.)viber\.com$
-(^|\.)vimeocdn\.com$
-(^|\.)vk\.com$
-(^|\.)vtechinsight\.com$
-(^|\.)webengineeringsummit\.com$
-(^|\.)wechat\.com$
-(^|\.)wechatos\.net$
-(^|\.)weglot\.com$
-(^|\.)whatsapp\.com$
-(^|\.)whatsapp\.net$
-(^|\.)worldfcdn2\.com$
-(^|\.)worldfcdn\.com$
-(^|\.)wshareit\.com$
-(^|\.)wwstat\.com$
+0.0.0.0 (^|\.)3lift\.com$
+0.0.0.0 (^|\.)acast\.com$
+0.0.0.0 (^|\.)accountkit\.com$
+0.0.0.0 (^|\.)activision\.com$
+0.0.0.0 (^|\.)adblockfast\.com$
+0.0.0.0 (^|\.)addtoany\.com$
+0.0.0.0 (^|\.)adjust\.com$
+0.0.0.0 (^|\.)admidainsight\.com$
+0.0.0.0 (^|\.)ads-twitter\.com$
+0.0.0.0 (^|\.)adtilt\.com$
+0.0.0.0 (^|\.)ainvest\.com$
+0.0.0.0 (^|\.)akahost\.net$
+0.0.0.0 (^|\.)akamaihd\.net$
+0.0.0.0 (^|\.)akamaized\.net$
+0.0.0.0 (^|\.)allow-reuest\.co\.uk$
+0.0.0.0 (^|\.)amazontrust\.com$
+0.0.0.0 (^|\.)app-analytics-services-att\.com$
+0.0.0.0 (^|\.)app-measurement\.com$
+0.0.0.0 (^|\.)apple-cloudkit\.com$
+0.0.0.0 (^|\.)apple-mapkit\.com$
+0.0.0.0 (^|\.)appspot\.com$
+0.0.0.0 (^|\.)atomile\.com$
+0.0.0.0 (^|\.)attentioninsight\.com$
+0.0.0.0 (^|\.)avast\.com$
+0.0.0.0 (^|\.)betcart\.com$
+0.0.0.0 (^|\.)buy-request\.co\.uk$
+0.0.0.0 (^|\.)bytedance\.com$
+0.0.0.0 (^|\.)bytefcdn-oversea\.com$
+0.0.0.0 (^|\.)bytefcdn-ttpeu\.com$
+0.0.0.0 (^|\.)byteglb\.com$
+0.0.0.0 (^|\.)byteigtm\.com$
+0.0.0.0 (^|\.)byteimg\.com$
+0.0.0.0 (^|\.)byteoversea\.com$
+0.0.0.0 (^|\.)byteoversea\.net$
+0.0.0.0 (^|\.)bytetcdn\.com$
+0.0.0.0 (^|\.)capcut\.com$
+0.0.0.0 (^|\.)cashwort\.com$
+0.0.0.0 (^|\.)cdn-net\.com$
+0.0.0.0 (^|\.)cdninstagram\.com$
+0.0.0.0 (^|\.)chartboost\.com$
+0.0.0.0 (^|\.)chatgpt\.com$
+0.0.0.0 (^|\.)chatwoot\.com$
+0.0.0.0 (^|\.)clearbit\.com$
+0.0.0.0 (^|\.)clevertoolkit\.com$
+0.0.0.0 (^|\.)cloudflare\.net$
+0.0.0.0 (^|\.)cloudflareclient\.com$
+0.0.0.0 (^|\.)cloudfront\.net$
+0.0.0.0 (^|\.)codmwest\.com$
+0.0.0.0 (^|\.)colorado\.edu$
+0.0.0.0 (^|\.)comcast\.com$
+0.0.0.0 (^|\.)consumerhealthdigest\.com$
+0.0.0.0 (^|\.)contentsquare\.net$
+0.0.0.0 (^|\.)cookie-script\.com$
+0.0.0.0 (^|\.)copilot\.com$
+0.0.0.0 (^|\.)cpa-content\.com$
+0.0.0.0 (^|\.)crummydevioussucculent\.com$
+0.0.0.0 (^|\.)dataseat\.com$
+0.0.0.0 (^|\.)diamondberlingamerplanet\.com$
+0.0.0.0 (^|\.)digicert\.com$
+0.0.0.0 (^|\.)discord\.com$
+0.0.0.0 (^|\.)discord\.gg$
+0.0.0.0 (^|\.)discord\.media$
+0.0.0.0 (^|\.)discordapp\.com$
+0.0.0.0 (^|\.)discordapp\.net$
+0.0.0.0 (^|\.)dmpplat\.com$
+0.0.0.0 (^|\.)dnse1\.com$
+0.0.0.0 (^|\.)download-fast\.co\.uk$
+0.0.0.0 (^|\.)drest\.com$
+0.0.0.0 (^|\.)edgekey\.net$
+0.0.0.0 (^|\.)edgesuite\.net$
+0.0.0.0 (^|\.)enable-request\.co\.uk$
+0.0.0.0 (^|\.)energized\.pro$
+0.0.0.0 (^|\.)es-eset\.com$
+0.0.0.0 (^|\.)eset\.com$
+0.0.0.0 (^|\.)facebook\.com$
+0.0.0.0 (^|\.)facebook\.de$
+0.0.0.0 (^|\.)facebook\.fr$
+0.0.0.0 (^|\.)facebook\.net$
+0.0.0.0 (^|\.)fast\.com$
+0.0.0.0 (^|\.)fastly\.net$
+0.0.0.0 (^|\.)fb\.com$
+0.0.0.0 (^|\.)fb\.me$
+0.0.0.0 (^|\.)fbcdn\.com$
+0.0.0.0 (^|\.)fbcdn\.net$
+0.0.0.0 (^|\.)fbpigeon\.com$
+0.0.0.0 (^|\.)fbsbx\.com$
+0.0.0.0 (^|\.)fburl\.com$
+0.0.0.0 (^|\.)fh-wgt\.com$
+0.0.0.0 (^|\.)fiverequest\.com$
+0.0.0.0 (^|\.)flavouredjuicycontent\.com$
+0.0.0.0 (^|\.)flirtygirlschat\.com$
+0.0.0.0 (^|\.)flowgpt\.com$
+0.0.0.0 (^|\.)footerfont\.com$
+0.0.0.0 (^|\.)foursquare\.com$
+0.0.0.0 (^|\.)freebasics\.com$
+0.0.0.0 (^|\.)freshchat\.com$
+0.0.0.0 (^|\.)ft\.com$
+0.0.0.0 (^|\.)gcloudplat\.com$
+0.0.0.0 (^|\.)gdfsnt\.com$
+0.0.0.0 (^|\.)geetest\.com$
+0.0.0.0 (^|\.)geevisit\.com$
+0.0.0.0 (^|\.)gethornet\.com$
+0.0.0.0 (^|\.)ggpht\.com$
+0.0.0.0 (^|\.)giphy\.com$
+0.0.0.0 (^|\.)githubcopilot\.com$
+0.0.0.0 (^|\.)githubusercontent\.com$
+0.0.0.0 (^|\.)golden-gates\.sbs$
+0.0.0.0 (^|\.)goodimpressioncrboost\.com$
+0.0.0.0 (^|\.)googlevideo\.com$
+0.0.0.0 (^|\.)gsensebot\.com$
+0.0.0.0 (^|\.)helpshift\.com$
+0.0.0.0 (^|\.)hootsuite\.com$
+0.0.0.0 (^|\.)hornet\.com$
+0.0.0.0 (^|\.)hornmot\.com$
+0.0.0.0 (^|\.)hpeprint\.com$
+0.0.0.0 (^|\.)hubspot\.com$
+0.0.0.0 (^|\.)hyperagent\.com$
+0.0.0.0 (^|\.)hypstarcdn\.com$
+0.0.0.0 (^|\.)ibytedtos\.com$
+0.0.0.0 (^|\.)ibyteimg\.com$
+0.0.0.0 (^|\.)icloud-content\.com$
+0.0.0.0 (^|\.)imagetwist\.com$
+0.0.0.0 (^|\.)info-matureplanet\.com$
+0.0.0.0 (^|\.)instabug\.com$
+0.0.0.0 (^|\.)instagram\.com$
+0.0.0.0 (^|\.)internet\.org$
+0.0.0.0 (^|\.)iobit\.com$
+0.0.0.0 (^|\.)ipstatp\.com$
+0.0.0.0 (^|\.)ironport\.com$
+0.0.0.0 (^|\.)isnssdk\.com$
+0.0.0.0 (^|\.)japangoodsdirect\.com$
+0.0.0.0 (^|\.)jsmsat\.com$
+0.0.0.0 (^|\.)kuaishouzt\.com$
+0.0.0.0 (^|\.)kwaizt\.com$
+0.0.0.0 (^|\.)lgtviot\.com$
+0.0.0.0 (^|\.)lifeaiot\.com$
+0.0.0.0 (^|\.)lijit\.com$
+0.0.0.0 (^|\.)linkedin-ei\.com$
+0.0.0.0 (^|\.)linkedin\.com$
+0.0.0.0 (^|\.)ln-msedge\.net$
+0.0.0.0 (^|\.)loseit\.com$
+0.0.0.0 (^|\.)m\.me$
+0.0.0.0 (^|\.)manychat\.com$
+0.0.0.0 (^|\.)maykel-borg\.info$
+0.0.0.0 (^|\.)mcusercontent\.com$
+0.0.0.0 (^|\.)medinfinit\.com$
+0.0.0.0 (^|\.)messenger\.com$
+0.0.0.0 (^|\.)mfbcdn\.net$
+0.0.0.0 (^|\.)microsoftpersonalcontent\.com$
+0.0.0.0 (^|\.)miniclippt\.com$
+0.0.0.0 (^|\.)msftconnecttest\.com$
+0.0.0.0 (^|\.)muscdn\.com$
+0.0.0.0 (^|\.)musemuse\.cn$
+0.0.0.0 (^|\.)musical\.ly$
+0.0.0.0 (^|\.)musically\.ly$
+0.0.0.0 (^|\.)myadsget\.com$
+0.0.0.0 (^|\.)neworderflowbot\.com$
+0.0.0.0 (^|\.)newsinfo\.cfd$
+0.0.0.0 (^|\.)northghost\.com$
+0.0.0.0 (^|\.)oaiusercontent\.com$
+0.0.0.0 (^|\.)oakdenet\.com$
+0.0.0.0 (^|\.)office\.net$
+0.0.0.0 (^|\.)onetrust\.com$
+0.0.0.0 (^|\.)online-metrix\.net$
+0.0.0.0 (^|\.)openspeedtest\.com$
+0.0.0.0 (^|\.)picsart\.com$
+0.0.0.0 (^|\.)pinterest\.com$
+0.0.0.0 (^|\.)pinterest\.net$
+0.0.0.0 (^|\.)privacy-mgmt\.com$
+0.0.0.0 (^|\.)privatehost\.com$
+0.0.0.0 (^|\.)pstatp\.com$
+0.0.0.0 (^|\.)ptwmstcnt\.com$
+0.0.0.0 (^|\.)pubmnet\.com$
+0.0.0.0 (^|\.)qlivecdn\.com$
+0.0.0.0 (^|\.)quantcount\.com$
+0.0.0.0 (^|\.)raycast\.com$
+0.0.0.0 (^|\.)reactsummit\.com$
+0.0.0.0 (^|\.)reddit\.com$
+0.0.0.0 (^|\.)redditmedia\.com$
+0.0.0.0 (^|\.)redditspace\.com$
+0.0.0.0 (^|\.)redditstatic\.com$
+0.0.0.0 (^|\.)restaurantware\.sbs$
+0.0.0.0 (^|\.)revenuecat\.com$
+0.0.0.0 (^|\.)reviveroott\.com$
+0.0.0.0 (^|\.)rncdn7\.com$
+0.0.0.0 (^|\.)rocket-cdn\.com$
+0.0.0.0 (^|\.)rubiconproject\.com$
+0.0.0.0 (^|\.)samsung-dict\.com$
+0.0.0.0 (^|\.)samsungconsent\.com$
+0.0.0.0 (^|\.)seebestfirst\.com$
+0.0.0.0 (^|\.)segment\.com$
+0.0.0.0 (^|\.)sgsnssdk\.com$
+0.0.0.0 (^|\.)sharepoint\.com$
+0.0.0.0 (^|\.)sitemcinet\.co\.uk$
+0.0.0.0 (^|\.)sitescout\.com$
+0.0.0.0 (^|\.)skype\.com$
+0.0.0.0 (^|\.)snapchat\.com$
+0.0.0.0 (^|\.)snapkit\.com$
+0.0.0.0 (^|\.)spellknight\.com$
+0.0.0.0 (^|\.)sssinstagram\.com$
+0.0.0.0 (^|\.)stackadapt\.com$
+0.0.0.0 (^|\.)statsigapi\.net$
+0.0.0.0 (^|\.)stripst\.com$
+0.0.0.0 (^|\.)strpst\.com$
+0.0.0.0 (^|\.)strstat\.com$
+0.0.0.0 (^|\.)swypeconnect\.com$
+0.0.0.0 (^|\.)t\.co$
+0.0.0.0 (^|\.)tbunet\.com$
+0.0.0.0 (^|\.)telegram\.me$
+0.0.0.0 (^|\.)telegram\.org$
+0.0.0.0 (^|\.)t\.me$
+0.0.0.0 (^|\.)termiusclient\.co\.uk$
+0.0.0.0 (^|\.)tfbnw\.net$
+0.0.0.0 (^|\.)thefacebook\.com$
+0.0.0.0 (^|\.)thisilient\.com$
+0.0.0.0 (^|\.)tiktok-row\.net$
+0.0.0.0 (^|\.)tiktok\.com$
+0.0.0.0 (^|\.)tiktok\.in$
+0.0.0.0 (^|\.)tiktok\.org$
+0.0.0.0 (^|\.)tiktokcdn-eu\.com$
+0.0.0.0 (^|\.)tiktokcdn-eu\.net$
+0.0.0.0 (^|\.)tiktokcdn-in\.com$
+0.0.0.0 (^|\.)tiktokcdn-us\.com$
+0.0.0.0 (^|\.)tiktokcdn\.com$
+0.0.0.0 (^|\.)tiktokd\.org$
+0.0.0.0 (^|\.)tiktokeu-cdn\.com$
+0.0.0.0 (^|\.)tiktokglobalshop\.com$
+0.0.0.0 (^|\.)tiktokglobalshopv\.com$
+0.0.0.0 (^|\.)tiktoklb\.eu$
+0.0.0.0 (^|\.)tiktokmusic\.app$
+0.0.0.0 (^|\.)tiktokpangle-b\.us$
+0.0.0.0 (^|\.)tiktokpangle-cdn-us\.com$
+0.0.0.0 (^|\.)tiktokpangle\.us$
+0.0.0.0 (^|\.)tiktokshop\.com$
+0.0.0.0 (^|\.)tiktokstaticb\.com$
+0.0.0.0 (^|\.)tiktokv\.com$
+0.0.0.0 (^|\.)tiktokv\.eu$
+0.0.0.0 (^|\.)tiktokv\.us$
+0.0.0.0 (^|\.)tiktokw\.eu$
+0.0.0.0 (^|\.)tiktokw\.us$
+0.0.0.0 (^|\.)times-strait\.co\.in$
+0.0.0.0 (^|\.)tld-section0000\.homes$
+0.0.0.0 (^|\.)tlivecdn\.com$
+0.0.0.0 (^|\.)tlivepush\.com$
+0.0.0.0 (^|\.)toobit\.com$
+0.0.0.0 (^|\.)tracebit\.com$
+0.0.0.0 (^|\.)trustwallet\.com$
+0.0.0.0 (^|\.)ttapis\.com$
+0.0.0.0 (^|\.)ttdns2\.com$
+0.0.0.0 (^|\.)ttdns3\.com$
+0.0.0.0 (^|\.)ttlivecdn\.com$
+0.0.0.0 (^|\.)ttoversea\.net$
+0.0.0.0 (^|\.)ttoverseaus\.net$
+0.0.0.0 (^|\.)tttturbonet\.com$
+0.0.0.0 (^|\.)ttwstatic\.com$
+0.0.0.0 (^|\.)twimg\.com$
+0.0.0.0 (^|\.)twitch\.tv$
+0.0.0.0 (^|\.)twitter\.com$
+0.0.0.0 (^|\.)unbrownunflat\.com$
+0.0.0.0 (^|\.)uniconsent\.com$
+0.0.0.0 (^|\.)unicorn-soft\.com$
+0.0.0.0 (^|\.)unity3dusercontent\.com$
+0.0.0.0 (^|\.)usertrust\.com$
+0.0.0.0 (^|\.)viber\.com$
+0.0.0.0 (^|\.)vimeocdn\.com$
+0.0.0.0 (^|\.)vk\.com$
+0.0.0.0 (^|\.)vtechinsight\.com$
+0.0.0.0 (^|\.)webengineeringsummit\.com$
+0.0.0.0 (^|\.)wechat\.com$
+0.0.0.0 (^|\.)wechatos\.net$
+0.0.0.0 (^|\.)weglot\.com$
+0.0.0.0 (^|\.)whatsapp\.com$
+0.0.0.0 (^|\.)whatsapp\.net$
+0.0.0.0 (^|\.)worldfcdn2\.com$
+0.0.0.0 (^|\.)worldfcdn\.com$
+0.0.0.0 (^|\.)wshareit\.com$
+0.0.0.0 (^|\.)wwstat\.com$
 
 # --- Netflix ---
-(^|\.)netflix\.com$
-(^|\.)netflix\.net$
-(^|\.)nflximg\.net$
-(^|\.)nflxvideo\.net$
-(^|\.)nflxext\.com$
-(^|\.)nflxso\.net$
+0.0.0.0 (^|\.)netflix\.com$
+0.0.0.0 (^|\.)netflix\.net$
+0.0.0.0 (^|\.)nflximg\.net$
+0.0.0.0 (^|\.)nflxvideo\.net$
+0.0.0.0 (^|\.)nflxext\.com$
+0.0.0.0 (^|\.)nflxso\.net$
 
 # --- YouTube ---
-(^|\.)youtube\.com$
-(^|\.)youtu\.be$
-(^|\.)ytimg\.com$
-(^|\.)youtube-nocookie\.com$
-(^|\.)ytimg\.l\.google\.com$
-(^|\.)youtubei\.googleapis\.com$
+0.0.0.0 (^|\.)youtube\.com$
+0.0.0.0 (^|\.)youtu\.be$
+0.0.0.0 (^|\.)ytimg\.com$
+0.0.0.0 (^|\.)youtube-nocookie\.com$
+0.0.0.0 (^|\.)ytimg\.l\.google\.com$
+0.0.0.0 (^|\.)youtubei\.googleapis\.com$
 
 # --- Amazon Prime Video ---
-(^|\.)primevideo\.com$
-(^|\.)aiv-cdn\.net$
-(^|\.)amazonvideo\.com$
+0.0.0.0 (^|\.)primevideo\.com$
+0.0.0.0 (^|\.)aiv-cdn\.net$
+0.0.0.0 (^|\.)amazonvideo\.com$
 
 # --- Disney+ ---
-(^|\.)disneyplus\.com$
-(^|\.)dssott\.com$
-(^|\.)bamgrid\.com$
+0.0.0.0 (^|\.)disneyplus\.com$
+0.0.0.0 (^|\.)dssott\.com$
+0.0.0.0 (^|\.)bamgrid\.com$
 
 # --- HBO / Max ---
-(^|\.)max\.com$
-(^|\.)hbomax\.com$
-(^|\.)hbomaxcdn\.com$
+0.0.0.0 (^|\.)max\.com$
+0.0.0.0 (^|\.)hbomax\.com$
+0.0.0.0 (^|\.)hbomaxcdn\.com$
 
 # --- Hulu ---
-(^|\.)hulu\.com$
-(^|\.)huluim\.com$
+0.0.0.0 (^|\.)hulu\.com$
+0.0.0.0 (^|\.)huluim\.com$
 
 # --- Apple TV+ ---
-(^|\.)tv\.apple\.com$
+0.0.0.0 (^|\.)tv\.apple\.com$
 
-# --- Free/Live TVs (Pluto, Tubi, etc.) ---
-(^|\.)pluto\.tv$
-(^|\.)tubitv\.com$
+# --- Free/Live TVs 0.0.0.0 (Pluto, Tubi, etc.) ---
+0.0.0.0 (^|\.)pluto\.tv$
+0.0.0.0 (^|\.)tubitv\.com$
 
-# --- Crunchyroll (Anime) ---
-(^|\.)crunchyroll\.com$
-(^|\.)vrv\.co$
+# --- Crunchyroll 0.0.0.0 (Anime) ---
+0.0.0.0 (^|\.)crunchyroll\.com$
+0.0.0.0 (^|\.)vrv\.co$
